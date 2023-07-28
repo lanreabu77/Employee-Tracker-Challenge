@@ -1,4 +1,4 @@
-**Acceptance Criteria
+**ACCEPTANCE CRITERIA**
 
 GIVEN a command-line application that accepts user input
 
